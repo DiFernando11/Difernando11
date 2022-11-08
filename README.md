@@ -65,16 +65,13 @@ EXPERIENCIA ⚡ ⚡
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
+## GitHub Stats
 
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Difernando11)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Difernando11&show_icons=true)
-  
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Difernando11)  
-
-![Profile views](https://gpvc.arturio.dev/Difernando11)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Difernando11&show_icons=true)  
     
 </div>
 
