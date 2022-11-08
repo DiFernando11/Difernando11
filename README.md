@@ -86,6 +86,6 @@ EXPERIENCIA ⚡ ⚡
 </a> 
   <a href="https://linkedin.com/in/rishavanand" target="_blank">
 <img src=https://cdn-icons-png.flaticon.com/512/281/281769.png alt=linkedin style="margin-bottom: 5px;" height="20" width="20" />
-    <span>diegoapolo2011@gmail.com<span/>
+    <span style="color:blue; font-size:8px;">diegoapolo2011@gmail.com<span/>
 </a> 
 </div>  
