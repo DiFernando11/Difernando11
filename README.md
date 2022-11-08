@@ -25,3 +25,11 @@ EXPERIENCIA ⚡ ⚡
 ✅cuento con mas de 60 certificados de desarrollo web.
 
 ✅Actualmente llevo cursando 3 semestres de ingeniería en sistemas, en la Universidad Tecnica de Machala  🚀.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Difernando11)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Difernando11)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Difernando11&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Difernando11) 
