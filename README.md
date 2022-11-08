@@ -55,8 +55,6 @@ EXPERIENCIA ⚡ ⚡
 </div>
 
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -65,6 +63,16 @@ EXPERIENCIA ⚡ ⚡
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+</div>
+
+
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Difernando11)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Difernando11&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Difernando11)  
+
+![Profile views](https://gpvc.arturio.dev/Difernando11)  
 </div>
 
 
@@ -91,30 +99,3 @@ EXPERIENCIA ⚡ ⚡
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Difernando11)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Difernando11&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Difernando11)  
-
-![Profile views](https://gpvc.arturio.dev/Difernando11)  
