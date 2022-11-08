@@ -78,14 +78,13 @@ EXPERIENCIA ⚡ ⚡
 ## Connect with me  
 
 <div align="center">
-<a href="[https://github.com/rishavanand](https://github.com/DiFernando11)" target="_blank">
+<a href="https://www.linkedin.com/in/diego-fernando-apolo-guachizaca-324977248/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="[https://linkedin.com/in/rishavanand](https://www.linkedin.com/in/diego-fernando-apolo-guachizaca-324977248/)" target="_blank">
+<a href="https://github.com/DiFernando11" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-  <a align="center" href="https://linkedin.com/in/rishavanand" target="_blank">
+
 <img align="center" src=https://cdn-icons-png.flaticon.com/512/281/281769.png alt=linkedin style="margin-bottom: 5px;" height="20" width="20" />
     <span align="center">diegoapolo2011@gmail.com<span/>
-</a> 
 </div>  
