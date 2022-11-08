@@ -66,18 +66,18 @@ EXPERIENCIA ⚡ ⚡
 </div>
 
 
-<div align="center">
+<div align="center" display="flex">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Difernando11)](https://github.com/anuraghazra/github-readme-stats)
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Difernando11&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Difernando11)  
-
-![Profile views](https://gpvc.arturio.dev/Difernando11)  
 </div>
 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Difernando11)  
+
+![Profile views](https://gpvc.arturio.dev/Difernando11)  
 
 
 ## Connect with me  
