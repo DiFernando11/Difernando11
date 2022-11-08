@@ -66,7 +66,7 @@ EXPERIENCIA ⚡ ⚡
 </div>
 
 
-<div align="center" style="display: flex">
+<div style="display: flex">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Difernando11)](https://github.com/anuraghazra/github-readme-stats)
   
