@@ -75,7 +75,7 @@ EXPERIENCIA ⚡ ⚡
     
 </div>
 
-## Connect with me  
+## Contacta conmigo 🤝🤝
 
 <div align="center">
 <a href="https://github.com/DiFernando11"  target="_blank">
