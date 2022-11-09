@@ -7,7 +7,7 @@ Skills:  REACT / JS / HTML / CSS / SASS / NODE.JS / EXPRESS / POSTGRESSQL / VITE
 
 Soy estudiante de programacion desde el 2021, empezando con el lenguaje de Java, aprendiendo paradigamas de programacion, luego fui descubriendo el maravilloso mundo del desarrollo web, el cual desde el principio del 2022 no he dejado ni un dia de aprender💪 . 
 
-✔ PORTAFOLIO: https://portfolio-bzfn8o9qi-difernando11.vercel.app/
+✔ PORTAFOLIO: https://portfolio-difernando11.vercel.app/
 
 
 ✅ Me agradan los grandes desafíos, soy joven y tengo todas las ganas de emprender, aprender con compromiso y determinacion, hasta cumplir mis objetivos 🚀.
